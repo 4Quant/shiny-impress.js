@@ -15,13 +15,13 @@ The positions and details for the slides since particularly Z coordinates are to
 The source code for the presentation, since the iframe ```srcdoc```, makes it pretty un-readable. The formatting is ugly, if I find a pretty.html function somewhere, I'll use it.
 
 ## Links
-The original repository is located at http://4quant.github.io/shiny-impress.js
+The original repository is located at http://4quantoss.github.io/shiny-impress.js/
 ### Run it yourself?
 Install R and the Shiny package and run
 
 ```
 library(shiny)
-runGitHub("4Quant/shiny-impress.js")
+runGitHub("4QuantOSS/shiny-impress.js")
 ```
 
 ## Credits
